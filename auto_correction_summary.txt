@@ -1,0 +1,63 @@
+## AUTOMATED SPELLING CORRECTION SYSTEM
+
+### Overview
+The data cleaning script has been enhanced with an automated spelling correction system that:
+1. Loads existing corrections from a persistent JSON file
+2. Automatically detects and adds new spelling corrections during each run
+3. Saves all corrections back to the JSON file for future use
+
+### Key Components
+
+1. **Persistent Storage** - `spelling_corrections.json`
+   * Stores all spelling corrections in JSON format
+   * Currently contains 291 correction pairs
+   * Loaded at the start of each script run
+
+2. **Auto-Detection Algorithm** (`auto_detect_spelling_corrections` function)
+   * Uses Natural Language Processing techniques to identify potential misspellings
+   * Analyzes word frequency patterns in the dataset
+   * Calculates edit distance between words to find probable corrections
+   * Filters corrections based on similarity thresholds (0.7-0.95) to avoid false positives
+   * Automatically adds new corrections to the dictionary
+
+3. **Integration with Existing Dictionary**
+   * Merges manually defined corrections with auto-detected corrections
+   * Preserves all corrections across script runs
+   * Prevents duplicate corrections
+
+### Benefits
+
+1. **Continuous Improvement**
+   * Each run potentially identifies new misspellings
+   * The correction system becomes more comprehensive over time
+   * No manual intervention required for most new misspellings
+
+2. **Consistency**
+   * Ensures the same corrections are applied each time
+   * Maintains a single source of truth for all spelling corrections
+
+3. **Transparency**
+   * All corrections are stored in a human-readable format
+   * Easy to review, modify, or extend the corrections
+
+### Usage
+
+1. **Running the Script**
+   * Simply execute `python clean_dataset.py`
+   * The script will automatically load existing corrections
+   * New corrections will be detected and added
+   * All corrections will be saved back to the JSON file
+
+2. **Adding Manual Corrections**
+   * Edit the `event_name_corrections` dictionary in the script
+   * Or modify the `spelling_corrections.json` file directly
+
+### Performance
+
+During the initial run, the system:
+* Added 89 auto-detected spelling corrections
+* After the first run, all corrections were successfully saved
+* On subsequent runs, the system correctly loaded 291 existing corrections
+* The system properly detected that no new corrections were needed
+
+This automated system ensures that spelling corrections continuously improve with each run of the data cleaning script, reducing the need for manual intervention. 

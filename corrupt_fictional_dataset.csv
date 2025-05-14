@@ -1,0 +1,607 @@
+Event ID,Event Name,Year,Category,Country,Source Confidence
+E100,Langua$e Breakthrough,1636,Science,Country D,0.89
+E101,Rich $reakthrough,2040,Culture,,0.83
+E102,Member Crisis,2014,,Country A,0.59
+E103,Radio Breakthrough,2060,,Country-,0.42
+E104,Gue&s Crisis,1793,,Country A,0.54
+E105,In Re$@rm,2025,Culture,Country B,0.82
+E106,S@udy Crisis,1666,Politics,,0.93
+E107,Whole Reform,1651,Eco&omy,Country D,0.98
+E108,Behavior Crisis,1653,Politics,Country#,0.92
+E108,Behavior Crisis,1653,Politics,,0.92
+E109,We Re!orm,1937,?ar,,0.93
+E110,Difference $r*akthrough,,,Country E,0.4
+E110,Difference $r*akthrough,,,Country E,
+E111,Set Agreement,1989,P$li&ics,Country C,0.87
+E112,Nature Reform,1670,Culture,Country A,0.94
+E113,W!&ld Breakthrou?h,1923,Scie?c?,Country B,0.99
+E114,Work Discov%ry,1673,,Country A,0.58
+E115,Good Revolution,1682,Technology,Country C,0.8
+E116,#tation Breakthrough,1847,,Country-,0.49
+E117,Si$uation Cris*s,1817,Technolo?y,Country B,0.89
+E118,S?%ior A!reement,1879,Technology,Country A,0.94
+E119,Participant Reform,1993,Cult$&e,,0.86
+E119,Participant Reform,1993,Cult$&e,,
+E120,Identify Revolution,1730,War,Country D,0.95
+E121,T$y Breakthr?#gh,1939,Scien!e,Country#,0.9
+E122,Guess#Agreemen*,1632,@$r,Country D,0.92
+E123,Co&mo# Cri@is,1664,,Country B,0.48
+E124,$rice Discov%ry,1661,Culture,Country,0.88
+E125,Message Agreement,1757,Technology,Country D,0.91
+E126,Guy Disc?very,2092,Culture,Country#,0.88
+E127,Community Crisis,1697,P!litic!,,0.95
+E128,History Re$olutio&,1975,,Country,0.54
+E129,Various Revolution,1888,Culture,Country E,0.81
+E129,Various Revolution,,Culture,Country E,0.81
+E130,Behind Crisis,1785,Culture,Country_,0.93
+E131,$ncrease Cr&sis,1685,War,,0.66
+E131,$ncrease Cr&sis,1685,War,,0.66
+E132,Believe Revolution,1925,Economy,Country_,0.84
+E132,,1925,Economy,Country_,0.84
+E133,A&k R!*orm,1681,Culture,,0.88
+E134,Economic R?volut&on,1742,Science,Country-,1
+E135,Pr*jec* Crisis,2097,&ec?nology,,0.89
+E136,Morning Revolution,1969,War,Country,0.81
+E136,Morning Revolution,1969,War,,0.81
+E137,Them R!form,1884,Economy,Country C,0.84
+E138,Measure Reform,1913,C?ltu#e,Country A,0.81
+E139,Possible Breakthrough,1671,,Country D,0.63
+E140,Consumer Revolution,1800,Politics,Country D,0.87
+E141,Society Revolution,1727,War,Country A,0.84
+E141,Society Revolution,1727,,Country A,0.84
+E142,Partner Agreemen#,1671,Technology,Country A,0.94
+E143,F!ll *ris#s,,Economy,Country B,0.49
+E144,Some Revolution,1944,W&!,Country,0.61
+E144,Some Revolution,1944,,Country,0.61
+E145,Every#hing D#scover@,1866,Wa!,Country E,0.82
+E146,Natural Reform,1906,Technology,Country B,0.99
+E147,Possible Agreement,2010,Science,,0.74
+E148,Bill?Br%?kthrough,,Science,Country C,0.54
+E148,Bill?Br%?kthrough,,Science,Country C,
+E149,Start D?scove%y,1795,&a&,Country A,0.92
+E150,Car Breakthrough,1899,,Country D,0.5
+E151,Against&&evolution,,Science,Country,0.43
+,Against&&evolution,,Science,Country,0.43
+E152,Project Cr#sis,2091,Culture,Country C,0.85
+E153,Plan ?e##rm,1853,Economy,Country D,0.88
+E154,Boy Reform,1653,W&$,Country C,1.11
+E155,Color Reform,1857,War,Country D,0.93
+E156,Point A%reem*nt,,,Country A,0.51
+E157,Just Breakthrough,1718,Culture,,0.84
+E158,Tonight%B$eakthrough,1932,W!?,Country#,0.99
+E159,Network Reform,1849,Culture,,0.96
+E160,Ma*or Br#ak&hrough,1910,Culture,Country D,0.81
+E161,A?ain Dis#&very,1902,Econo&$,Country A,0.91
+E162,Senior Discovery,2099,Politi$s,,0.91
+E163,Course!Reform,2062,Culture,Country D,0.95
+E164,Difference Reform,1981,Science,,0.92
+E164,Difference Reform,1981,Science,,
+E165,Bi@ !reakthrough,2036,Technology,Country E,1.03
+E166,Bu%ines& Discover@,2075,Technology,Country D,0.93
+E167,Focus Discovery,1710,Culture,Country?,0.8
+E168,Recei%e Agreement,,W$r,,0.64
+E169,Guess %eform,,War,,0.62
+E170,Do Agreement,1780,Politics,,0.88
+E171,Research @iscovery,1766,Technology,,0.95
+E172,Choose Revolution,,Culture,,0.65
+E173,Baby Reform,,,Country B,0.47
+E173,Baby Reform,,,Country B,0.47
+E174,Of Discovery,1770,W?r,,0.9
+E174,Of Discovery,,W?r,,0.9
+E175,Skin Revolution,,War,Country A,0.58
+E176,Anythin* D&scov?ry,1917,Technology,Country C,0.88
+E177,Reason Reform,,T$c!nology,Country B,0.42
+E178,C@tizen#*eform,1848,War,,0.95
+E179,Mo?ey Agre@me%t,1977,Po?@tics,,0.69
+E179,Mo?ey Agre@me%t,1977,Po?@tics,,0.69
+E180,Reali&e Di$covery,1697,&ulture,Country C,0.85
+E181,Worker Reform,1928,Culture,,0.94
+E182,Incl&ding Crisis,1691,Te?hnology,,0.93
+,Incl&ding Crisis,1691,Te?hnology,,0.93
+E183,Animal Revolution,1656,Sc!ence,Country E,0.76
+E184,Nor$Reform,,W#$,,0.46
+E185,Hu&an @risis,1781,Technology,Country B,0.8
+E185,Hu&an @risis,1781,Technology,,0.8
+E186,Shake Disc%very,2032,Economy,,0.92
+E187,Executive $iscovery,1765,Politics,Country D,0.96
+E188,Sound Revol%$ion,1880,Politics,Country C,0.81
+E189,Short R%volu!ion,2026,Economy,,0.85
+E190,Note Revolution,1825,E?onom!,Country B,0.83
+E191,Wri!&r Agreemen#,1726,Science,Country?,0.89
+E192,Will Breakthrough,,Culture,,0.53
+E193,Too Revolution,1813,Politics,,0.9
+E194,Finally Reform,1894,Technolo@y,Country C,0.93
+E195,Toward Agreemen%,,@a#,Country D,0.58
+E196,Bring Revolution,1763,,,0.69
+E197,Mo$ey Refo&m,1672,#a@,,0.95
+E198,True Crisis,1665,Scien@e,Country,0.93
+E199,Student Crisis,1760,Science,Country_,0.84
+E200,News Agreement,1967,@conom!,,0.96
+E201,Wait&Revolution,1830,War,,0.96
+E202,Relations@ip Breakthrough,1916,Technology,Country D,0.91
+,Relations@ip Breakthrough,1916,Technology,Country D,0.91
+E203,Quite Discovery,2088,Poli!ics,Country A,0.91
+E204,Near Crisis,1932,$cience,Country C,0.89
+E205,Act Reform,1678,Science,Country C,0.81
+,Act Reform,1678,Science,Country C,0.81
+E206,Health Reform,1741,,Country-,0.46
+E206,Health Reform,1741,,Country-,0.46
+E207,None Reform,,Economy,,0.43
+E208,P#oject Refo*m,1991,Politics,,0.86
+E209,Two Breakthrough,1758,Cu@ture,Country_,0.86
+E210,H%ur C*isis,2008,C!&ture,Country D,0.83
+E211,I Crisis,1947,C#ltu#e,,0.73
+E212,Prevent C?$sis,,Economy,Country#,0.5
+E213,Officer Discovery,1913,Scien&e,,0.88
+E214,Expert Revolution,1975,Politics,Country#,0.99
+E215,Chance Rev?lution,2027,Politics,Country A,0.92
+E216,Learn Breakthrough,1973,Science,Country C,0.83
+E216,,1973,Science,Country C,0.83
+E217,Democrat?Br@akthrough,1893,Economy,Country D,0.95
+E217,Democrat?Br@akthrough,1893,Economy,Country D,
+E218,?ight Breakthrough,1956,Technology,Country B,0.96
+,?ight Breakthrough,1956,Technology,Country B,0.96
+E219,Nice Revolution,1649,,Country C,0.52
+E220,Career Breakthrough,,War,Country D,0.56
+E220,Career Breakthrough,,,Country D,0.56
+E221,Dr$$m Ag$eement,1798,Po!itic$,,0.87
+E222,Imp!ove#Refo&m,,S$ience,Country C,0.65
+E223,Maga$ine Discove$y,1868,,Country A,0.51
+E224,Field Discovery,1885,,Country C,0.41
+E225,Entire Discovery,2093,,Country A,0.55
+E226,Change Breakth&ou?h,1756,Science,Country E,0.91
+E226,Change Breakth&ou?h,1756,Science,Country E,
+E227,Camera Discovery,2089,,Country B,0.57
+E228,Establish Breakthrough,1697,Culture,Country B,1.07
+E229,Process Disc@very,2046,Economy,Country#,0.91
+E230,Media Cr&sis,1690,Technolog?,,1.01
+E231,Fo@eign Brea!through,1615,,Country A,0.42
+E232,Best D#scovery,2013,!ar,,0.82
+E233,Add Reform,1692,Cul&ur#,Country E,0.83
+E233,Add Reform,,Cul&ur#,Country E,0.83
+E234,Few $iscovery,1854,Politics,,0.76
+,Few $iscovery,1854,Politics,,0.76
+E235,Beat !ris#s,2071,War,Country,0.98
+E236,Poor$Crisis,2025,Technolog$,Country-,0.8
+E237,Administration Reform,1877,Science,Country-,0.85
+E238,Once Revolution,1722,Te#hnology,Country B,0.89
+E239,Law Discovery,,Science,Country D,0.51
+E240,Edge Reform,1962,Culture,,0.96
+E241,Far !iscovery,,!conomy,Country?,0.47
+E242,Last Crisis,1886,Eco#omy,,0.9
+E243,Sell Crisis,1929,,,0.64
+,Sell Crisis,1929,,,0.64
+E244,Go?d Breakthrough,1986,Politics,Country C,0.98
+E245,Nee& Brea%thro@gh,,T?chnology,Country D,0.55
+E246,Socia* Discov#ry,1851,Scienc?,,0.91
+E246,Socia* Discov#ry,1851,Scienc?,,
+E247,B#y Crisis,1790,War,,0.99
+E248,Party Agreement,1994,!c!nomy,Country-,0.9
+E249,Away Discovery,1696,Sci@nce,Country C,0.97
+E250,Customer Reform,,Culture,,0.47
+E251,Music Agreement,1978,Science,Country E,0.62
+E252,Minute Agreement,1797,,Country C,0.56
+E253,Respond Discovery,2021,Economy,Country D,0.94
+E253,Respond Discovery,,Economy,Country D,0.94
+E254,Peace Crisis,2034,Politics,Country#,0.78
+E255,Medica* Reform,1622,Politics,Country A,0.89
+E256,Red%R!volution,2056,Politics,Country C,0.81
+E257,Officer Revolution,1853,Poli!i#s,Country E,0.92
+E258,Cover Discovery,1623,Technolog&,Country-,0.97
+E259,Kind Discovery,2064,War,Country A,0.97
+E260,Food Reform,2016,War,Country B,1.01
+E261,$nstitution Revolutio!,,Technology,Country?,0.7
+E262,Phone Crisis,1726,,Country C,0.44
+E262,Phone Crisis,1726,,,0.44
+E263,Certain Breakthroug$,1952,Culture,Country-,0.85
+E264,Quickly Reform,1977,Wa&,Country D,0.93
+E265,Hit ?reakthrough,2021,Technology,Country-,0.85
+,Hit ?reakthrough,2021,Technology,Country-,0.85
+E266,Adult Revolution,2018,Technology,Country C,0.82
+E267,Will Reform,1954,Technology,,0.93
+E268,Pick Breakthrough,1660,Economy,Country B,0.81
+E269,Manage D&scov$ry,,Politics,,0.48
+E270,Serious C%is#s,1761,Politics,,0.98
+E270,Serious C%is#s,,Politics,,0.98
+E271,Tel@ Ref@r@,,Ec#nomy,,0.52
+E272,Exactly Agreement,1745,Cu!ture,Country C,0.82
+E273,Cut Disco@ery,1802,P&litic!,Country#,1.03
+E273,Cut Disco@ery,1802,,Country#,1.03
+E274,Fire Breakthrough,1702,Politics,Country E,0.99
+E275,Behind Breakt?ro?gh,1848,Science,,0.84
+E276,Total Breakthrough,1694,,Country?,0.5
+E277,D!tail!$risis,,Tec!nology,Country B,0.63
+E278,Region Discovery,,Culture,,0.5
+E278,Region Discovery,,Culture,,
+E279,Across Reform,1762,Science,Country E,0.8
+E280,Ar* R%volution,1770,War,Country B,0.87
+E281,E$onomy Re$oluti!n,,Economy,Country A,0.69
+E281,E$onomy Re$oluti!n,,Economy,,0.69
+E282,Loss Rev*lution,2084,,,0.64
+E283,Remain Revolution,1921,Politics,,0.73
+E284,Body Breakthrough,1612,,,0.61
+E285,!ho Cri#is,1875,War,Country E,0.83
+E286,Sell Crisis,2093,War,Country A,0.82
+E287,Office Discovery,1809,Culture,Country E,0.79
+E288,Out Reform,1686,,,0.7
+E289,Book Revo%u$ion,2061,Science,Country_,0.8
+,Book Revo%u$ion,2061,Science,Country_,0.8
+E290,E#pect ?is*overy,1888,Science,Country D,1.08
+E290,E#pect ?is*overy,1888,Science,Country D,
+E291,Must Discovery,,Politics,Country A,0.41
+E291,Must Discovery,,,Country A,0.41
+E292,Expect Discovery,1610,Economy,Country?,0.98
+E293,Onto%*eform,1797,War,Country E,0.85
+E294,Certain ?e?or&,,#conomy,Country D,0.7
+E295,Prov&de $gre!ment,1928,Technology,Country D,0.72
+E296,Party Revolution,1832,$ultu@e,Country C,0.84
+,Party Revolution,1832,$ultu@e,Country C,0.84
+E297,Knowledge Agreement,1926,Economy,Country-,1.11
+E298,Woman Breakthrough,1727,,Country-,0.42
+,Woman Breakthrough,1727,,Country-,0.42
+E299,Respond Breakthrough,2012,War,,0.81
+E300,Term Breakthrough,1963,,Country B,0.42
+E301,Fire Revolution,2030,,Country C,0.59
+E302,#isc$ver Breakthroug?,1817,,Country D,0.66
+E303,?ot Br%akthrough,2079,Tech#olog!,Country D,0.87
+E303,?ot Br%akthrough,,Tech#olog!,Country D,0.87
+E304,Com?unity A@reement,,Technology,Country B,0.61
+E304,Com?unity A@reement,,,Country B,0.61
+E305,Floor Revolution,1725,Politics,,1.03
+E306,Get Reform,1937,Culture,Country?,0.97
+E306,Get Reform,1937,,Country?,0.97
+E307,Far Cri@i%,,,Country C,0.58
+E308,Challenge Revolution,1801,Politics,Country D,0.7
+E309,No?Re*orm,,War,Country-,0.51
+E310,T?ll Revolutio&,,,,0.66
+E311,Stat? R#fo#m,1796,?ulture,,0.82
+E312,E%t Breakth*ough,1612,Economy,Country B,0.87
+,E%t Breakth*ough,1612,Economy,Country B,0.87
+E313,#peech Ref@rm,1688,W?r,Country E,0.95
+E314,Hour Reform,1808,Culture,Country B,0.65
+E314,Hour Reform,1808,,Country B,0.65
+E315,Compare $greement,1839,Politics,Country B,0.94
+E316,Marriage Breakt&rough,1761,Culture,Country E,0.9
+E317,Assume Reform,2048,Sci?nc&,Country A,0.95
+E318,Western !&s%overy,1610,Scie!&e,Country A,0.86
+E318,Western !&s%overy,1610,Scie!&e,Country A,
+E319,Human Discovery,1760,War,Country B,0.94
+E320,Early Revolution,1757,Science,Country C,0.92
+E321,Gas Agreement,1897,Technology,Country?,0.86
+E321,Gas Agreement,1897,Technology,,0.86
+E322,Stage Revolut%on,1748,War,Country A,0.95
+E323,West Revolution,2061,Politics,Country B,0.64
+E324,Agent Crisis,2066,Culture,,0.83
+E325,Ou% Crisi@,1912,Technology,Country C,0.93
+E326,See@ Revol@tion,2099,Science,Country,0.74
+E326,See@ Revol@tion,2099,Science,Country,
+E327,$ovement Discover#,1986,Scie$c?,Country_,0.97
+E328,Whole Breakthrough,1794,T@chnology,Country B,0.95
+E329,For $ris?s,1954,Wa$,Country D,0.81
+E330,Di&ner Revolu@ion,1830,Science,Country D,0.98
+E331,Act*!!isis,1776,War,Country A,0.97
+E332,Nothin% Discov&ry,1690,Polit&cs,,0.86
+E333,Debat? B#eakthrough,2069,Politics,Country_,0.99
+E334,L?ss Reform,1691,,,0.49
+E334,L?ss Reform,,,,0.49
+E335,Item Discovery,1781,Culture,Country D,0.82
+E336,Parent Crisis,1813,$olitics,Country-,0.96
+E336,Parent Crisis,,$olitics,Country-,0.96
+E337,Especially R&voluti%n,1862,Wa#,,0.91
+E338,H!t @isco#ery,1850,War,Country B,0.59
+E339,Ot@er* Revo%ution,,War,Country C,0.43
+E339,,,War,Country C,0.43
+E340,Se*ond Break!h$ough,1772,Science,Country_,0.94
+E341,B%$ Re#orm,1834,Economy,Country A,0.86
+E342,Specific Discovery,1666,Culture,,0.94
+E343,Whether Discovery,1763,#echn@logy,,0.97
+E344,Politi&s Breakthr@ugh,1798,Science,Country C,0.81
+E345,Call@Agre%me@t,1787,Culture,,0.88
+E346,Natural Agreement,1667,!ar,Country,0.9
+E346,Natural Agreement,,!ar,Country,0.9
+E347,Indicate Breakthr&ugh,,War,Country-,0.56
+E348,Air Reform,,Economy,,0.6
+E349,Method Discovery,1611,,,0.58
+E350,Enjoy Revolution,1791,Science,Country B,0.68
+E351,Real Revolution,1991,Science,Country A,0.8
+E352,Look Discovery,,War,Country E,0.65
+E353,Federal Crisis,,Technology,Country,0.59
+E354,Cl?ss *iscovery,1913,Science,Country_,0.93
+E355,Generation Revolution,,Economy,,0.52
+E355,Generation Revolution,,,,0.52
+E356,!bout ?%form,,Scien$@,Country_,0.44
+E357,Share Reform,1719,Politi#&,Country_,0.81
+E358,Participant Breakthrough,,Ec#nomy,Country E,0.47
+E359,Fine Revolution,1962,Tech&ology,,0.93
+E360,Knowledge Breakthrough,1747,@conomy,Country E,0.98
+E361,Blood Discovery,1818,P?litics,Country E,0.8
+E361,Blood Discovery,,P?litics,Country E,0.8
+E362,Science @evolution,2098,P!litics,,0.64
+E363,Inv*stment C@is!s,1894,Politics,Country A,0.93
+E364,Program Di$cov@&y,1696,,Country C,0.64
+E365,Author Revolution,1683,Technology,Country E,0.99
+E366,Item Br#ak?hr%ugh,1859,,Country C,0.63
+E366,Item Br#ak?hr%ugh,1859,,,0.63
+E367,F%ne Agr#ement,2022,War,Country B,0.9
+E368,Country Ref@rm,2055,Economy,Country_,0.85
+E369,Her Revoluti%n,1628,&cience,Country A,0.89
+E370,Nor Reform,1629,,Country D,0.51
+E371,Vi*#t Reform,1828,Science,Country A,0.86
+E371,Vi*#t Reform,,Science,Country A,0.86
+E372,Manager Agreement,1957,,,0.42
+E373,General Discovery,1891,War,Country?,0.89
+E373,General Discovery,1891,War,Country?,
+E374,Tend Reform,2015,Tec!nolog$,Country C,0.72
+E375,A%alysis Breakthrough,,Culture,,0.52
+E376,Everyone Revolution,1621,Economy,,0.88
+E377,Emp*oyee@Breakthr$ugh,1766,Technology,Country D,0.98
+E378,Health*Breakthrough,,Politics,Country_,0.44
+E379,Many Brea$through,,Science,Country B,0.62
+E380,When Breakthrough,2042,Eco$omy,,0.99
+E380,When Breakthrough,,Eco$omy,,0.99
+E381,Exist Discovery,,Economy,Country B,0.45
+E382,I Revolution,1708,,Country A,0.43
+E383,Involve Revolution,1738,War,Country B,0.8
+E384,Y!urse*f Breakthrou#h,,?a!,,0.67
+,Y!urse*f Breakthrou#h,,?a!,,0.67
+E385,Serious Revolution,1849,C?lt$re,,0.88
+E385,,1849,C?lt$re,,0.88
+E386,Floor!R%volut$on,,,Country A,0.46
+E387,Realize Discovery,1634,$a?,Country D,0.92
+E387,Realize Discovery,1634,$a?,Country D,
+E388,Exactly&Revoluti%n,,,Country,0.51
+E389,Deci!e Bre@kth&ough,1846,,,0.7
+E390,Question Agreement,1922,War,Country E,0.8
+E391,Fal! Disc#very,1906,Politics,Country E,0.85
+E392,Tele*i&ion&Reform,1787,Economy,Country B,0.87
+E393,Might Breakthrough,1632,Science,Country D,0.87
+E394,Single Revolution,1711,$a@,Country B,0.97
+E394,,1711,$a@,Country B,0.97
+E395,Street Agr?eme#!,1924,Technology,Country C,0.8
+E396,Growth Crisis,2006,W!?,Country B,0.8
+E397,Kid Agreement,2000,Economy,Country E,1.12
+E398,Rate Revolution,1962,Culture,Country E,0.85
+E399,Ov&r@Revolution,1850,Culture,Country D,0.97
+E400,Mouth Agreement,1861,Science,Country D,1.07
+E401,Surface Crisis,1764,,Country E,0.63
+E402,Now Crisis,2061,Economy,Country-,0.66
+E403,Someone Breakthrough,1998,,Country C,0.66
+E403,Someone Breakthrough,1998,,,0.66
+E404,Public Agreement,2034,Science,,0.72
+E405,Sure ?e@orm,1601,?ar,Country C,0.98
+E406,Already#Brea%thro#gh,1887,Polit&cs,Country C,1.02
+E407,Feeling Breakthrough,1753,Culture,,0.84
+E407,Feeling Breakthrough,1753,,,0.84
+E408,*ews Re!orm,1696,Cult$r$,Country E,0.82
+E409,Family Reform,1631,Economy,Country-,0.9
+E410,Guess C?isis,1744,Politics,Country D,0.74
+E410,Guess C?isis,1744,,Country D,0.74
+E411,Pull %isc*very,1752,War,Country?,0.83
+E412,Think Disc@very,1614,Econom&,Country D,0.81
+E413,Today Breakthrou!h,,Politics,Country D,0.47
+E414,Hair Crisis,1680,Culture,Country_,0.94
+E415,B%#lding !iscovery,2077,!@r,Country D,0.85
+E416,Si&uation Re?orm,1910,Technology,Country C,0.83
+E416,Si&uation Re?orm,1910,Technology,Country C,
+E417,&oach Revoluti?n,1765,Science,,0.81
+E418,Enou!h Agree!ent,1882,Technology,Country C,0.84
+E418,Enou!h Agree!ent,1882,Technology,Country C,
+E419,Ma$ @ef?rm,,Culture,,0.59
+E420,Ago R#form,1765,Technol#gy,Country?,0.86
+E420,Ago R#form,1765,,Country?,0.86
+E421,Answer Discovery,1929,War,Country#,0.79
+E422,Open Crisis,1615,Culture,,0.94
+E423,Current Reform,1667,Technology,Country A,0.98
+E424,Throug#out Revolution,1677,Science,Country E,0.85
+E424,Throug#out Revolution,,Science,Country E,0.85
+E425,Lawyer R#for!,1720,Science,,0.98
+E426,Risk Agreement,,Technology,,0.42
+E427,Police Breakthrough,1805,Cult&re,Country A,0.9
+E428,Sur%a$e Reform,2004,,Country B,0.57
+E429,Writer#Discovery,2016,Politics,Country D,0.63
+E430,Int!rnational Agreement,1716,Politics,Country A,0.98
+E430,Int!rnational Agreement,1716,Politics,,0.98
+E431,Music Cr!sis,1612,Sc?ence,,0.67
+E432,Di!ferent Discovery,1712,,Country#,0.67
+E433,Role *ev&l!tion,1856,War,Country C,0.87
+E434,Which Reform,1943,Technology,,0.89
+E434,Which Reform,1943,Technology,,0.89
+E435,Us Agreement,1852,Science,Country#,0.9
+E436,Yet Discove?y,1702,,Country A,0.67
+E437,Seat Crisis,1851,Science,Country_,1.01
+E438,Be Crisis,,W#!,,0.46
+E439,Space Revolution,1803,Politics,Country#,0.97
+E440,Science Reform,1981,Culture,Country C,0.85
+E441,E*onomy Agreement,1861,,Country B,0.57
+E442,Today Crisi@,,War,,0.64
+E442,,,War,,0.64
+E443,Team Agreement,1801,S#ience,,0.89
+E444,P@ttern Brea!through,1908,Economy,Country,0.95
+E445,Scientist Revolution,1694,S!i#nce,Country?,0.87
+E446,Bit Discovery,1980,Politics,,0.94
+E447,South Reform,,,Country B,0.7
+E448,Production Agreement,1784,T!chnolog@,Country,0.8
+E449,Smile Revolution,1890,War,Country B,0.9
+E450,Tell Agreement,1606,,Country B,0.62
+E451,Machine Revolution,,Economy,Country D,0.69
+E452,Standard Breakthrough,,Cul@ur!,Country B,0.55
+E453,Least Breakthrough,1887,Culture,Country C,0.95
+E454,Interesting Reform,2039,Politics,Country A,1.02
+E455,Forward Discovery,2026,Sci!nce,Country-,0.81
+E456,Democrat Discovery,2084,War,Country A,0.86
+E456,Democrat Discovery,2084,,Country A,0.86
+E457,More Bre!kthrou!h,1970,Cu$tu?e,Country-,0.82
+E458,Girl#Agree#*nt,1710,Eco&o#y,Country B,1.03
+E458,Girl#Agree#*nt,1710,Eco&o#y,,1.03
+E459,Situati&n Ref!rm,2048,W@&,Country A,0.85
+E460,Beautiful Reform,1602,War,,0.76
+E461,Supp$rt $g*eement,1672,War,Country,1.04
+E462,Front Re?olution,1661,,Country A,0.69
+E463,Al!ost Breakthrou@h,1689,Science,Country A,0.89
+E464,City Revolution,1833,Cu#ture,Country#,0.85
+E464,City Revolution,1833,,Country#,0.85
+E465,Value D$sc$ve?y,1959,@ult!re,Country-,0.77
+E466,All Reform,1678,,Country A,0.62
+E467,Guess Breakthrough,1615,Science,Country D,0.88
+E468,Own Breakthrough,1811,Politics,Country-,0.9
+E469,Material Dis@o@!ry,1936,Science,,0.93
+E469,Material Dis@o@!ry,1936,Science,,0.93
+E470,Finish Re&orm,,Politics,,0.45
+E471,During Agreement,2102,Politics,Country B,0.99
+E472,Direction Di!!overy,1932,Sc$ence,Country E,0.96
+E473,Trial Breakthrough,1886,Economy,,0.95
+E474,&r$e Refo@m,2034,Economy,Country A,0.85
+E475,Box Discovery,,War,Country D,0.6
+E475,Box Discovery,,War,Country D,0.6
+E476,Back&Crisis,1683,War,Country#,0.94
+E476,Back&Crisis,,War,Country#,0.94
+E477,Difference Crisis,1674,W??,Country C,0.84
+E478,Sha$e$Cr!sis,1805,Wa?,Country D,0.99
+E479,For A#reem?nt,1675,#cono?y,Country D,0.98
+E480,Budget Br@akthrough,1784,T$chnol?gy,Country A,0.91
+E481,Clear Revolution,1770,War,Country#,0.89
+E482,Ahead Crisis,2042,,Country B,0.43
+E482,Ahead Crisis,,,Country B,0.43
+E483,Dev*lopment Agreement,1859,Economy,Country B,0.91
+E484,Current Crisis,,,Country B,0.45
+E485,Investment Crisis,1671,Politics,,0.82
+E486,Yeah Breakthr*ugh,2050,Scie&!e,Country E,0.7
+E487,S%de Cris@s,1649,Culture,Country,0.85
+E487,S%de Cris@s,1649,Culture,Country,
+E488,Sing Crisis,1940,Politics,Country B,0.93
+E489,We Agreement,1850,Science,Country C,0.94
+E490,Adult Agreement,1876,Technology,Country E,0.69
+E491,We Breakthrough,1712,Culture,Country C,0.94
+E492,Mean $eform,1984,Science,Country B,0.96
+E493,Fire Breakthrough,1679,,Country B,0.6
+E494,Could$Cris$s,2009,,Country D,0.56
+E495,Street Discovery,,War,,0.54
+E496,Ca!l Agreem%nt,2022,P?litics,Country E,0.92
+E497,Profes@or $evolution,1612,Science,,0.86
+E498,I Revolution,1698,Economy,Country A,0.81
+E499,#ith$r B%eakthrough,2086,Science,Country_,0.91
+E500,Instead *eform,1806,?ci&nce,Country E,0.86
+E501,Own Bre*kth@$ugh,1791,Politics,Country C,0.88
+E501,Own Bre*kth@$ugh,1791,,Country C,0.88
+E502,Give Cri@is,,,Country E,0.6
+E503,Best#R*fo#m,,Scie?ce,Country D,0.64
+E504,Hom& Disco@*ry,1730,Economy,,0.96
+E505,Left Breakt#rough,1985,Cul$ure,,0.88
+E506,Cell Crisis,,War,Country D,0.5
+,Cell Crisis,,War,Country D,0.5
+E507,Moment Breakthrough,,Techn$lo@y,Country A,0.65
+E508,U@ C%i!is,1654,Science,Country B,0.94
+E508,U@ C%i!is,,Science,Country B,0.94
+E509,H@#!red Reform,1923,Science,,0.84
+E509,H@#!red Reform,1923,Science,,0.84
+E510,Break Agreement,1723,Culture,Country D,0.81
+E510,,1723,Culture,Country D,0.81
+E511,Sport Agreement,1882,&cono@y,Country D,0.84
+E512,Accept Breakthrough,1648,Sci$nce,Country?,0.91
+E513,Conferen#e Ref?rm,1999,Science,Country E,0.88
+E513,Conferen#e Ref?rm,1999,,Country E,0.88
+E514,Available Crisis,,Technology,Country C,0.58
+E515,Shake Breakthrough,2010,Culture,Country?,0.69
+E516,Or Discovery,1957,Culture,Country D,0.83
+E517,Wor@d Bre&kthrough,1750,Politics,Country A,0.86
+E518,Quite Agreement,1818,Science,Country_,0.98
+E519,White D!scovery,1701,Technology,Country D,0.79
+E520,Behind Breakthrough,,Ec$no?y,Country B,0.5
+E520,Behind Breakthrough,,Ec$no?y,,0.5
+E521,Yourse&f Discove!y,1754,!olitics,,0.86
+E522,Miss Reform,1898,Technology,Country,1.04
+E523,*o?n Ref*rm,2085,Science,Country A,0.83
+E524,Unit Revolution,1987,Cul&ure,Country E,0.8
+E525,R*ady Breakthrough,1787,Economy,Country D,0.77
+E526,Building Crisis,2062,Economy,Country C,0.74
+E526,,2062,Economy,Country C,0.74
+E527,Mind Discovery,,&echnology,Country A,0.69
+E528,Kee! $r?sis,1959,,Country#,0.66
+E529,Size Agreement,2049,Economy,,0.89
+E529,Size Agreement,2049,Economy,,0.89
+E530,Build Crisis,2070,,Country B,0.67
+E531,Foll!w Rev@lution,,Culture,Country B,0.69
+E532,$%stomer Breakthrough,1937,Culture,Country C,0.76
+E532,$%stomer Breakthrough,1937,,Country C,0.76
+E533,Lot Breakthrough,1643,Economy,Country B,0.91
+E534,Table Discovery,1886,Science,Country B,0.84
+E535,Drug Agreement,1668,,Country D,0.57
+E536,Big Discovery,1866,Sci@nce,Country A,0.9
+E537,Dream#Agreement,1899,Cu$tu@e,Country A,0.88
+E538,Produce #!volut!on,1763,Politics,,0.95
+E539,Eve!ybody @evolution,1941,Technology,,0.71
+E539,Eve!ybody @evolution,1941,Technology,,
+E540,Fin@%Discovery,1688,Te#hnolo#y,Country E,0.92
+,Fin@%Discovery,1688,Te#hnolo#y,Country E,0.92
+E541,Pretty Crisis,2039,Sci&nce,,0.93
+E542,#!ack C@isis,1674,Science,Country D,0.9
+E543,Such #iscovery,1889,Polit#cs,Country B,0.92
+E544,Close *rea$through,2029,,Country C,0.64
+E545,Leg Agreement,1798,Science,Country D,0.81
+E546,Hundred Agreement,1998,Technology,,0.84
+E546,,1998,Technology,,0.84
+E547,Im&#ct Ref*rm,2076,,Country D,0.48
+E547,Im&#ct Ref*rm,,,Country D,0.48
+E548,Over Revolution,1982,Politics,Country D,0.92
+E549,Art %ris@s,2055,Technology,Country B,0.85
+E550,Fi&ish ?risis,1757,Technology,Country A,0.88
+E551,Whose Discovery,,Science,Country E,0.44
+E552,Within Revolution,1995,Economy,Country A,0.72
+,Within Revolution,1995,Economy,Country A,0.72
+E553,Voice Br@akthrough,1740,Technology,Country C,0.71
+E554,Just Crisis,,@!r,,0.56
+E554,Just Crisis,,@!r,,0.56
+E555,Sister Breakth&o&gh,1861,Technology,,0.94
+E556,Behavior R?for*,1901,Economy,Country E,0.87
+E557,However Cri&is,,Economy,Country E,0.52
+E557,However Cri&is,,Economy,Country E,
+E558,Not Agreement,1636,Economy,Country D,0.99
+E559,Morning Crisis,1864,,Country A,0.5
+E560,Night Agreement,2073,War,,0.91
+E561,Receiv& %evolution,1760,War,Country B,0.91
+E561,Receiv& %evolution,,War,Country B,0.91
+E562,Help Agreement,2097,War,Country B,0.96
+E563,Positive Crisis,,,Country,0.47
+E564,Meeting Breakthrough,1942,Economy,Country-,0.77
+E565,Incre@*e Revolutio!,2010,Economy,Country#,0.84
+E565,,2010,Economy,Country#,0.84
+E566,Beat Reform,1785,Ec!nom&,Country E,0.91
+E567,Usually Revolution,2008,Technology,Country#,0.9
+E567,Usually Revolution,2008,Technology,,0.9
+E568,Ch$rge Dis%overy,1970,Economy,Country C,0.92
+E569,With %evolutio@,,,Country C,0.43
+E570,I?clud% Reform,2014,Technology,,0.85
+E571,Late Breakthrough,1960,War,,0.89
+E572,Our Agreement,1674,War,Country_,0.81
+E573,Record Discovery,,Technology,Country E,0.51
+E574,Participa%t Discovery,1634,Politics,Country C,0.98
+E575,Institution Breakthrough,2078,,Country E,0.65
+E576,&urrent %risis,1890,Technology,Country B,0.85
+E577,Collection Breakthrough,1924,Technology,Country E,0.82
+E578,Green Breakthrough,1798,Wa!,Country A,0.83
+E579,*stab@ish Discovery,1785,Science,Country A,0.71
+E580,Claim Agreement,1655,Cultu#e,Country E,0.85
+E581,%?ader Discove!y,2073,Economy,Country#,0.77
+E581,%?ader Discove!y,2073,,Country#,0.77
+E582,Prove Reform,1890,!ci$nce,Country A,0.82
+E582,Prove Reform,1890,,Country A,0.82
+E583,Paper %ris!s,1968,,Country C,0.6
+E584,Ge! Revolution,1712,Culture,Country E,0.91
+E585,%eries Agreement,2080,Culture,Country,0.96
+E585,%eries Agreement,2080,,Country,0.96
+E586,#iss Revolution,,Cu$tur$,,0.42
+E587,S%veral Revolu%?on,1687,Technology,Country B,0.9
+E587,,1687,Technology,Country B,0.9
+E588,S@ciety Discovery,2087,,Country-,0.48
+E589,Entire Crisis,2098,War,Country D,0.82
+E590,Save #evolution,2032,Technology,Country B,0.73
+E591,Po$icy Crisis,1684,P#litic&,Country#,0.85
+E592,Fight Discovery,1722,Economy,,0.88
+E593,#esign?Crisis,2034,Technol!gy,Country D,0.84
+E594,Control Discovery,2033,,Country_,0.66
+E595,Choice B$eakthrough,1676,E&onomy,,0.86
+E596,Threat Breakthrough,1604,Culture,Country?,0.84
+E597,Story Reform,1851,$echnology,,0.87
+E597,Story Reform,1851,$echnology,,0.87
+E598,Growth Discovery,1855,Culture,Country E,0.87
+E599,Message Breakthrough,1910,Politics,,0.83
